@@ -2,10 +2,9 @@
 volt
 ===============================
 
-Openstack service to tracker the volumes in nova and cinder, also to provide volume attachment information for vmthunder service.
+Tracker of VMThunder to coordinate P2P data transferring.
 
 * Free software: Apache license
-* Documentation: https://github.com/zhangpf/volt/
 
 Features
 --------
